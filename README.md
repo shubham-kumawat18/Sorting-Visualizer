@@ -1,7 +1,7 @@
 Sorting algorithm visualizer
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick
 
-Live- sorting visualizer
+Live- http://127.0.0.1:5500/index.html
 
 Code- sort visualizer code
 
